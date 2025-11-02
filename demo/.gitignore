@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Java / Spring
+/target/
+/*.iml
+/.idea/
+/.vscode/
+*.log
+*.class
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Env / Secrets
+application.properties
+.env
